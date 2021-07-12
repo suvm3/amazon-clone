@@ -59,7 +59,7 @@ function Login() {
                 </p>
                 <button onClick={register} className='login__registerButton'>Create Account</button>
             </div>
-        </div >
+        </div>
     )
 }
 
